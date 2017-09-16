@@ -1,0 +1,27 @@
+body {
+    background-image:    url(background_final.jpg);
+    background-size:     contain;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;              /* optional, center the image */
+    cursor:help;
+    
+}
+
+.About {
+    padding-top: 400px
+}
+
+a {
+	color: red;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+a:hover {
+  background-color: yellow ;
+  color: blue;
+  font-size: 24px;
+  cursor: help;
