@@ -5,12 +5,13 @@ body {
     background-position: center center;              /* optional, center the image */
     cursor:help;    
 }
-,img { position:absolute; top:0; left:0; }
+
 .About {
     padding-top: 400px
 }
 
 a {
+    overflow: auto;
 	color: red;
     letter-spacing: 1px;
     text-decoration: none;
