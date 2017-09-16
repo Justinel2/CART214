@@ -3,10 +3,9 @@ body {
     background-size:     contain;                      /* <------ */
     background-repeat:   no-repeat;
     background-position: center center;              /* optional, center the image */
-    cursor:help;
-    
+    cursor:help;    
 }
-
+,img { position:absolute; top:0; left:0; }
 .About {
     padding-top: 400px
 }
