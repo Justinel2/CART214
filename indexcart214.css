@@ -1,13 +1,13 @@
 body {
     background-image:    url(background_final.jpg);
     background-size:     contain;                      /* <------ */
-    background-repeat:   no-repeat;
+    background-repeat:   repeat;
     background-position: center center;              /* optional, center the image */
     cursor:help;    
 }
 
 .About {
-    padding-top: 400px
+    padding-top: 40%;
 }
 
 a {
