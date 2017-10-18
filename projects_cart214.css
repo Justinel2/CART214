@@ -1,0 +1,44 @@
+
+body {
+    display: block;
+    margin: 30px 100px;
+    cursor: crosshair;
+}
+img{
+     max-width: 75%;
+     max-height: 100%
+}
+.navigation {
+    position: absolute; /* or absolute */
+    top: 40%;
+    left: 47%;
+}
+.exercises {
+    position: absolute; /* or absolute */
+    top: 100%;
+    left: 25%;
+}
+a {
+	color: green;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 1.6;
+}
+a:hover {
+  background-color: yellow ;
+  font-style: italic;
+  cursor: s-resize;
+}
+h3 {
+    text-align: left;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-family: Courier New, Courier, monospace;
+    font-size: 20px;
+    line-height: 2;
+    background-color: yellow;
+    margin-right: 26%;
+
+}
